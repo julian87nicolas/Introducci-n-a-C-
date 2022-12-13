@@ -1,3 +1,9 @@
+# Contenido del módulo
+* [Condicionales](#condicionales)
+* [Tipos de datos](#tipos-de-datos)
+    * [Otros tipos de floats](#otros-tipos-de-floats)
+    * [Bits](#bits)
+    * [Estructuras](#estructuras)
 # Condicionales
 El lenguaje C++, permite la siguiente estructura `if-else`:
 ```cpp

@@ -1,7 +1,8 @@
 # Contenido del módulo
-* Conversiones
-* Strings
-* Namespaces
+* [Arreglo de punteros](#arreglo-de-punteros)
+* [¿Qué es una conversión?](#¿qué-es-una-conversión)
+* [Strings](#strings)
+* [Namespaces](#name-spaces)
 
 # Arreglo de punteros
 Nada impide que los elementos del array sean punteros. Imaginemos que necesitamos un array dinámico. El array es bidimensional y no podemos predecir cuantas filas tiene, o cuantos columnas.

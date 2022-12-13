@@ -1,12 +1,12 @@
 # Contenido del módulo
-* Diseño, declaracion e invocación de funciones
-* Punteros
-* Diferentes métodos de pasar parámetros y sus propósitos
-* Parámetros por defecto
-* Funciones de una línea
-* Sobrecarga de funciones
-* Ordenamiento
-* Memoria on demand
+* [Punteros](#punteros---las-bases-absolutas)
+* [Punteros vs Vectores](#punteros-vs-vectores-similutudes-y-diferencias)
+* [Funciones](#funciones)
+* [Parámetros por defecto](#parámetros-por-defecto)
+* [Funciones en una línea](#funciones-en-una-línea)
+* [Sobrecarga de funciones](#sobrecarga-de-funciones)
+* [Ordenando vectores](#ordenando-vectores)
+* [Memory on demand](#memory-on-demand)
 
 # Punteros - las bases absolutas
 Los tipos de datos que hemos venido usando estan muy relacionados al procesamiento de datos de la computadora, pero reflejan plenamente nuestras ideas e intuiciones. Por ejemplo, usamos *floats* todos los días de nuestras vidas cuando pagamos por algo e *ints* cuando contamos algo. Los punteros no tienen una analogía simple y obvia para nuestra vida diaria y sus valores son ilegibles para humanos y completamente inutiles. Las computadoras, sin embargo, pueden hacer un gran uso de los punteros, dando a los desarrolladores opciones potentes cuando diseñamos algoritmos y estructuras de datos.

@@ -1,3 +1,9 @@
+# Contenido del módulo
+
+* [Nuestro primer programa](#nuestro-primer-programa)
+* [Conexion con el mundo real: inputs](#conexion-con-el-mundo-real-inputs)
+	* [Manipulators](#manipulators)
+* [Conexino con el mundo real: outputs](#conexion-con-el-mundo-real-outputs)
 # Nuestro primer programa
 Comenzamos viendo el siguiente programa:
 ```cpp
