@@ -62,6 +62,7 @@ p = &i;
 ```
 
 Luego de completar la asignación, la variable `p` apuntará al lugar donde la variable `i` es almacenada en memoria. Esto puede verse en la siguiente figura:
+
 ![Asignacion de puntero](img/AsignacionPuntero.png)
 
 Si asignamos `nullptr` al puntero, este no apuntara a ninguna variable. Se dice que el puntero está conectado a tierra (**grounded**).
