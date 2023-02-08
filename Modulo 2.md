@@ -68,3 +68,7 @@ struct Student {
 * La delcaración de la estructura siempre comienza con la palabra clave `struct`.
 * Nuestra estructura tiene tres campos: el primero es una cadena y se llama `name`; el segundo es un float y se llama `time_spent`; el tercero es un int y se llama `recent_chapter`.
 * La declaración termina con la llave de cierre seguida de un punto y coma.
+
+[Siguiente módulo](Modulo%203.md)
+
+[Módulo anterior](Modulo%201.md)

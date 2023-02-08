@@ -1192,3 +1192,5 @@ cout << Hogwarts::troll << " " <<
 cout << Mordor::troll << " " << Mordor::wizard << endl;
 }
 ```
+
+[Módulo anterior](Modulo%203.md)
